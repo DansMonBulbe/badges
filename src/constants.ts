@@ -85,4 +85,6 @@ export const BADGE_TYPES:any[] = [
 	["reward", 'Reward', 'lucide-crown'],
 	["customized", 'Customized', 'hash'],
 	["vault", 'Vault', 'vault'],
+// badge perso
+    ["wait", "En attente", "hourglass"]
 ];
