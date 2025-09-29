@@ -419,3 +419,10 @@ body {
 	color: rgba(var(--badge-color), 1);
 	background-color: rgba(var(--badge-color),.123);
 }
+
+/* badges personnalisés */
+.inline-badge[data-inline-badge^="wait"] {
+  --badge-color: var(--color-orange-rgb);
+    color: rgba(var(--badge-color), 1);
+    background-color: rgba(var(--badge-color),.123);
+}
